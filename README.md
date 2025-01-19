@@ -42,6 +42,9 @@ Decentralized Decision-Making : Truck agents independently decide their actions 
 
 Use of task allocation protocols like the Contract Net Protocol to enable collaboration and efficient task distribution.
 
+
+_________________________________________________________________________________________________________________________________________________________
+
 ###### Dynamic Environment:
 
 Simulation includes traffic variations, roadblocks, and fluctuating waste production levels.
